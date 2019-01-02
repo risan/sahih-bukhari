@@ -1,0 +1,39 @@
+{
+  "number": 1,
+  "book_number": 1,
+  "book_title_en": "Revelation",
+  "book_title_id": "Wahyu",
+  "text": ".\"إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ\" حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ",
+  "text_breakdown": [
+    {
+      "text": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ",
+      "type": "sanad"
+    },
+    {
+      "text": "\"إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ\"",
+      "type": "matn"
+    },
+    {
+      "text": ".",
+      "type": "punctuation"
+    }
+  ],
+  "translation_en": "I heard Allah's Messenger ﷺ saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.\"",
+  "translation_id": "Saya mendengar Rasulullah ﷺ bersabda, \"Semua amal perbuatan tergantung dari niatnya dan balasan bagi setiap orang tergantung dari apa yang ia niatkan. Barang siapa yang berhijrah untuk mengejar dunia atau untuk seorang wanita yang ingin dinikahinya, maka hijrahnya itu kepada apa yang ia niatkan.\"",
+  "sanad": [
+    "Al-Humaydi ibn Al-Zubayr",
+    "Sufyan ibn `Uyaynah",
+    "Yahya ibn Sa'id Al-Anshari",
+    "Muhammad ibn Ibrahim Al-Taimi",
+    "Alqamah ibn Waqqas",
+    "Umar ibn Al-Khattab"
+  ],
+  "tags_en": [
+    "intention",
+    "emigration"
+  ],
+  "tags_id": [
+    "niat",
+    "hijrah"
+  ]
+}
