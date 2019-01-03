@@ -3,30 +3,52 @@
   "book_number": 1,
   "book_title_en": "Revelation",
   "book_title_id": "Wahyu",
-  "text": ".\"إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ\" حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ",
+  "text": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رَضِيَ اللَّهُ عَنْهُ ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ ”إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ“.‏",
+  "text_simple": ".“حدثنا الحميدي عبد الله بن الزبير، قال حدثنا سفيان، قال حدثنا يحيى بن سعيد الأنصاري، قال أخبرني محمد بن إبراهيم التيمي، أنه سمع علقمة بن وقاص الليثي، يقول سمعت عمر بن الخطاب ـ رضي الله عنه ـ على المنبر قال سمعت رسول الله صلى الله عليه وسلم يقول ”إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى، فمن كانت هجرته إلى دنيا يصيبها أو إلى امرأة ينكحها فهجرته إلى ما هاجر إليه",
   "text_breakdown": [
     {
-      "text": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ",
-      "type": "sanad"
+      "type": "sanad",
+      "text": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رَضِيَ اللَّهُ عَنْهُ ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ‏",
+      "text_simple": "حدثنا الحميدي عبد الله بن الزبير، قال حدثنا سفيان، قال حدثنا يحيى بن سعيد الأنصاري، قال أخبرني محمد بن إبراهيم التيمي، أنه سمع علقمة بن وقاص الليثي، يقول سمعت عمر بن الخطاب ـ رضي الله عنه ـ على المنبر قال سمعت رسول الله صلى الله عليه وسلم يقول"
     },
     {
-      "text": "\"إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ\"",
-      "type": "matn"
+      "type": "matn",
+      "text": "”إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ‏“",
+      "text_simple": "“إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى، فمن كانت هجرته إلى دنيا يصيبها أو إلى امرأة ينكحها فهجرته إلى ما هاجر إليه”"
     },
     {
       "text": ".",
       "type": "punctuation"
     }
   ],
-  "translation_en": "I heard Allah's Messenger ﷺ saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.\"",
-  "translation_id": "Saya mendengar Rasulullah ﷺ bersabda, \"Semua amal perbuatan tergantung dari niatnya dan balasan bagi setiap orang tergantung dari apa yang ia niatkan. Barang siapa yang berhijrah untuk mengejar dunia atau untuk seorang wanita yang ingin dinikahinya, maka hijrahnya itu kepada apa yang ia niatkan.\"",
+  "translation_en": "I heard Allah's Messenger ﷺ saying, “The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.“",
+  "translation_id": "Saya mendengar Rasulullah ﷺ bersabda, “Setiap amal perbuatan tergantung dari niatnya dan balasan bagi setiap orang tergantung dari apa yang ia niatkan. Barang siapa yang berhijrah untuk mengejar dunia atau untuk seorang wanita yang ingin dinikahinya, maka hijrahnya itu kepada apa yang ia niatkan.“",
+  "last_sanad": "Umar bin al-Khattab",
   "sanad": [
-    "Al-Humaydi ibn Al-Zubayr",
-    "Sufyan ibn `Uyaynah",
-    "Yahya ibn Sa'id Al-Anshari",
-    "Muhammad ibn Ibrahim Al-Taimi",
-    "Alqamah ibn Waqqas",
-    "Umar ibn Al-Khattab"
+    {
+      "muslim_scholars_id": 30418,
+      "name": "Abdullah bin al-Zubair bin Isa"
+    },
+    {
+      "name": "Sufyan bin Uyaynah",
+      "muslim_scholars_id": 20005
+    },
+    {
+      "muslim_scholars_id": 11062,
+      "name": "Yahya bin Sa'id al-Ansari"
+    },
+    {
+      "muslim_scholars_id": 11213,
+      "name": "Muhammad bin Ibrahim bin al-Harith"
+    },
+    {
+      "muslim_scholars_id": 11042,
+      "name": "Alqama bin Waqqas"
+    },
+    {
+      "muslim_scholars_id": 3,
+      "name": "Umar bin al-Khattab"
+    }
   ],
   "tags_en": [
     "intention",
@@ -35,5 +57,11 @@
   "tags_id": [
     "niat",
     "hijrah"
-  ]
+  ],
+  "references": {
+    "text": "http://al-islamic.net/hadith/bukhari/1",
+    "text_simple": "https://www.islambook.com/",
+    "translation_en": "Muhammad Muhsin Khan",
+    "sanad": "http://qaalarasulallah.com/"
+  }
 }
